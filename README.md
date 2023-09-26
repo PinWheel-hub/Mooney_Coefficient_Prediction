@@ -1,0 +1,2 @@
+# Mooney_Coefficient_Prediction
+使用CNN根据橡胶混炼过程中的时序数据预测门尼系数
